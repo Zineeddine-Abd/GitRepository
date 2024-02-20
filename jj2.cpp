@@ -3,14 +3,7 @@ using namespace std;
 int main(){
 for (int i=0;i<10;i++){
 cout<<"yeaaaaaah\t\n"<<endl;
-
-
-
-
-
-char s[]="yooooooo nigaaaaaaaaa";
-
-
 }
+cout<<"ok good "<<endl;
 return 0;
 }
